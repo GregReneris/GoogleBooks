@@ -1,7 +1,8 @@
 import axios from "axios"
 
 const GOOGLE ="https://www.googleapis.com/books/v1/volumes?q="
-const URL = "http://localhost:8080"
+// const URL = "http://localhost:8080"
+const URL = "https://greggoogleapi.herokuapp.com/"
 
 
 const API = {
